@@ -1,0 +1,28 @@
+[1.981s] Invoking command in '/home/faps/hand-gesture_ws/src/jetbot_ros': PYTHONPATH=/home/faps/hand-gesture_ws/build/jetbot_ros/prefix_override:/home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/jetbot_ros build --build-base /home/faps/hand-gesture_ws/build/jetbot_ros/build install --record /home/faps/hand-gesture_ws/build/jetbot_ros/install.log --install-scripts $base/lib/jetbot_ros --single-version-externally-managed
+[2.240s] running egg_info
+[2.241s] writing ../../build/jetbot_ros/jetbot_ros.egg-info/PKG-INFO
+[2.242s] writing dependency_links to ../../build/jetbot_ros/jetbot_ros.egg-info/dependency_links.txt
+[2.242s] writing entry points to ../../build/jetbot_ros/jetbot_ros.egg-info/entry_points.txt
+[2.242s] writing requirements to ../../build/jetbot_ros/jetbot_ros.egg-info/requires.txt
+[2.243s] writing top-level names to ../../build/jetbot_ros/jetbot_ros.egg-info/top_level.txt
+[2.279s] reading manifest file '../../build/jetbot_ros/jetbot_ros.egg-info/SOURCES.txt'
+[2.281s] writing manifest file '../../build/jetbot_ros/jetbot_ros.egg-info/SOURCES.txt'
+[2.281s] running build
+[2.282s] running build_py
+[2.284s] running install
+[2.284s] running install_lib
+[2.287s] running install_data
+[2.289s] running install_egg_info
+[2.292s] removing '/home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros-0.0.0-py3.8.egg-info' (and everything under it)
+[2.308s] Copying ../../build/jetbot_ros/jetbot_ros.egg-info to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros-0.0.0-py3.8.egg-info
+[2.309s] running install_scripts
+[2.328s] Installing data_collection script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[2.328s] Installing gazebo_spawn script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[2.329s] Installing motors_nvidia script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[2.329s] Installing motors_sparkfun script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[2.330s] Installing motors_waveshare script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[2.330s] Installing nav_model script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[2.331s] Installing oled_ssd1306 script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[2.331s] Installing teleop_keyboard script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[2.332s] writing list of installed files to '/home/faps/hand-gesture_ws/build/jetbot_ros/install.log'
+[2.363s] Invoked command in '/home/faps/hand-gesture_ws/src/jetbot_ros' returned '0': PYTHONPATH=/home/faps/hand-gesture_ws/build/jetbot_ros/prefix_override:/home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/jetbot_ros build --build-base /home/faps/hand-gesture_ws/build/jetbot_ros/build install --record /home/faps/hand-gesture_ws/build/jetbot_ros/install.log --install-scripts $base/lib/jetbot_ros --single-version-externally-managed

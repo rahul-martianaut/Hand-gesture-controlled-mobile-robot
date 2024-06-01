@@ -1,0 +1,59 @@
+[0.179s] Invoking command in '/home/faps/hand-gesture_ws/build/robot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake /home/faps/hand-gesture_ws/src/robot_control -DCMAKE_INSTALL_PREFIX=/home/faps/hand-gesture_ws/install/robot_control
+[0.245s] -- The C compiler identification is GNU 9.4.0
+[0.310s] -- The CXX compiler identification is GNU 9.4.0
+[0.315s] -- Check for working C compiler: /usr/bin/cc
+[0.396s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.397s] -- Detecting C compiler ABI info
+[0.477s] -- Detecting C compiler ABI info - done
+[0.491s] -- Detecting C compile features
+[0.491s] -- Detecting C compile features - done
+[0.493s] -- Check for working CXX compiler: /usr/bin/c++
+[0.597s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.598s] -- Detecting CXX compiler ABI info
+[0.702s] -- Detecting CXX compiler ABI info - done
+[0.715s] -- Detecting CXX compile features
+[0.716s] -- Detecting CXX compile features - done
+[0.718s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.742s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[0.742s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.994s] -- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+[0.995s] -- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+[1.027s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.033s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[1.123s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[1.158s] -- Found FastRTPS: /opt/ros/foxy/include  
+[1.251s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.309s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[1.355s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[1.449s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.452s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.452s] -- Added test 'lint_cmake' to check CMake code style
+[1.453s] -- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+[1.455s] -- Added test 'xmllint' to check XML markup files
+[1.460s] -- Configuring done
+[1.463s] -- Generating done
+[1.466s] -- Build files have been written to: /home/faps/hand-gesture_ws/build/robot_control
+[1.476s] Invoked command in '/home/faps/hand-gesture_ws/build/robot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake /home/faps/hand-gesture_ws/src/robot_control -DCMAKE_INSTALL_PREFIX=/home/faps/hand-gesture_ws/install/robot_control
+[1.484s] Invoking command in '/home/faps/hand-gesture_ws/build/robot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --build /home/faps/hand-gesture_ws/build/robot_control -- -j2 -l2
+[1.543s] Invoked command in '/home/faps/hand-gesture_ws/build/robot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --build /home/faps/hand-gesture_ws/build/robot_control -- -j2 -l2
+[1.574s] Invoking command in '/home/faps/hand-gesture_ws/build/robot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --install /home/faps/hand-gesture_ws/build/robot_control
+[1.589s] -- Install configuration: ""
+[1.589s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/lib/robot_control/robot_control_node.py
+[1.589s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/launch
+[1.589s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/launch/launch_robot_control.py
+[1.590s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/ament_index/resource_index/package_run_dependencies/robot_control
+[1.591s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/ament_index/resource_index/parent_prefix_path/robot_control
+[1.591s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/environment/ament_prefix_path.sh
+[1.591s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/environment/ament_prefix_path.dsv
+[1.592s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/environment/path.sh
+[1.592s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/environment/path.dsv
+[1.592s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/local_setup.bash
+[1.593s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/local_setup.sh
+[1.593s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/local_setup.zsh
+[1.594s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/local_setup.dsv
+[1.594s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/package.dsv
+[1.594s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/ament_index/resource_index/packages/robot_control
+[1.594s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/cmake/robot_controlConfig.cmake
+[1.595s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/cmake/robot_controlConfig-version.cmake
+[1.595s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/package.xml
+[1.598s] Invoked command in '/home/faps/hand-gesture_ws/build/robot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --install /home/faps/hand-gesture_ws/build/robot_control

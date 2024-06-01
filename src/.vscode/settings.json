@@ -1,0 +1,12 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages",
+        "/home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages",
+        "/home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}

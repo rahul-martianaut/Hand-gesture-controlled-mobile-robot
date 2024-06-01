@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/jetbot_navigation/jetbot_navigation.egg-info
+writing ../../build/jetbot_navigation/jetbot_navigation.egg-info/PKG-INFO
+writing dependency_links to ../../build/jetbot_navigation/jetbot_navigation.egg-info/dependency_links.txt
+writing entry points to ../../build/jetbot_navigation/jetbot_navigation.egg-info/entry_points.txt
+writing requirements to ../../build/jetbot_navigation/jetbot_navigation.egg-info/requires.txt
+writing top-level names to ../../build/jetbot_navigation/jetbot_navigation.egg-info/top_level.txt
+writing manifest file '../../build/jetbot_navigation/jetbot_navigation.egg-info/SOURCES.txt'
+reading manifest file '../../build/jetbot_navigation/jetbot_navigation.egg-info/SOURCES.txt'
+writing manifest file '../../build/jetbot_navigation/jetbot_navigation.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/faps/hand-gesture_ws/build/jetbot_navigation/build
+creating /home/faps/hand-gesture_ws/build/jetbot_navigation/build/lib
+creating /home/faps/hand-gesture_ws/build/jetbot_navigation/build/lib/jetbot_navigation
+copying jetbot_navigation/__init__.py -> /home/faps/hand-gesture_ws/build/jetbot_navigation/build/lib/jetbot_navigation
+running install
+running install_lib
+creating /home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages/jetbot_navigation
+copying /home/faps/hand-gesture_ws/build/jetbot_navigation/build/lib/jetbot_navigation/__init__.py -> /home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages/jetbot_navigation
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages/jetbot_navigation/__init__.py to __init__.cpython-38.pyc
+running install_data
+creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/ament_index
+creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/ament_index/resource_index
+creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/ament_index/resource_index/packages
+copying resource/jetbot_navigation -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/ament_index/resource_index/packages
+copying package.xml -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation
+creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/launch
+copying launch/slam_launch.py -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/launch
+copying launch/navigation_launch.py -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/launch
+creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/config
+copying config/slam_params.yaml -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/config
+running install_egg_info
+Copying ../../build/jetbot_navigation/jetbot_navigation.egg-info to /home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages/jetbot_navigation-0.0.0-py3.8.egg-info
+running install_scripts
+writing list of installed files to '/home/faps/hand-gesture_ws/build/jetbot_navigation/install.log'

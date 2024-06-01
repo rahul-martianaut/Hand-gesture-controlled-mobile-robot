@@ -1,0 +1,81 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Found rclpy: 1.0.13 (/opt/ros/foxy/share/rclpy/cmake)
+-- Found std_msgs: 2.0.5 (/opt/ros/foxy/share/std_msgs/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Found FastRTPS: /opt/ros/foxy/include  
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/faps/hand-gesture_ws/build/hand_gesture_control
+-- Install configuration: ""
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/hand_gesture_node.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/train.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__init__.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/box_utils.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/__init__.cpython-310.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/cvfpscalc.cpython-310.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/box_utils.cpython-38.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/model_keypoint.cpython-310.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/model_keypoint.cpython-38.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/cvfpscalc.cpython-38.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/cvfpscalc.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/model_keypoint.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/keypoint.csv
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/keypoint_classifier_label.csv
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/pytorch_keypoint_classifier.pth
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/keypoint_classifier.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__/__init__.cpython-310.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__/keypoint_classifier.cpython-310.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__/keypoint_classifier.cpython-38.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__/model_keypoint.cpython-310.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/__init__.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/__pycache__
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/__pycache__/__init__.cpython-310.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/__pycache__/__init__.cpython-38.pyc
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/launch
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/launch/launch_gesture_control.py
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/ament_index/resource_index/package_run_dependencies/hand_gesture_control
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/ament_index/resource_index/parent_prefix_path/hand_gesture_control
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/environment/ament_prefix_path.sh
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/environment/ament_prefix_path.dsv
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/environment/path.sh
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/environment/path.dsv
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/local_setup.bash
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/local_setup.sh
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/local_setup.zsh
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/local_setup.dsv
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/package.dsv
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/ament_index/resource_index/packages/hand_gesture_control
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/cmake/hand_gesture_controlConfig.cmake
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/cmake/hand_gesture_controlConfig-version.cmake
+-- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/package.xml

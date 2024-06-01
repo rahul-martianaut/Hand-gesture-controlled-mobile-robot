@@ -1,0 +1,23 @@
+[0.194s] Invoking command in '/home/faps/hand-gesture_ws/build/robot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --build /home/faps/hand-gesture_ws/build/robot_control -- -j2 -l2
+[0.256s] Invoked command in '/home/faps/hand-gesture_ws/build/robot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --build /home/faps/hand-gesture_ws/build/robot_control -- -j2 -l2
+[0.302s] Invoking command in '/home/faps/hand-gesture_ws/build/robot_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --install /home/faps/hand-gesture_ws/build/robot_control
+[0.316s] -- Install configuration: ""
+[0.316s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/lib/robot_control/robot_control_node.py
+[0.316s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/launch
+[0.316s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/launch/launch_robot_control.py
+[0.316s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/ament_index/resource_index/package_run_dependencies/robot_control
+[0.317s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/ament_index/resource_index/parent_prefix_path/robot_control
+[0.317s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/environment/ament_prefix_path.sh
+[0.317s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/environment/ament_prefix_path.dsv
+[0.317s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/environment/path.sh
+[0.317s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/environment/path.dsv
+[0.317s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/local_setup.bash
+[0.317s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/local_setup.sh
+[0.318s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/local_setup.zsh
+[0.318s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/local_setup.dsv
+[0.318s] -- Installing: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/package.dsv
+[0.318s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/ament_index/resource_index/packages/robot_control
+[0.318s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/cmake/robot_controlConfig.cmake
+[0.318s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/cmake/robot_controlConfig-version.cmake
+[0.318s] -- Up-to-date: /home/faps/hand-gesture_ws/install/robot_control/share/robot_control/package.xml
+[0.319s] Invoked command in '/home/faps/hand-gesture_ws/build/robot_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --install /home/faps/hand-gesture_ws/build/robot_control

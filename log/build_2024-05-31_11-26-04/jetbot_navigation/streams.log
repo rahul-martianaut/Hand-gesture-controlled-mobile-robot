@@ -1,0 +1,38 @@
+[1.288s] Invoking command in '/home/faps/hand-gesture_ws/src/jetbot_navigation': PYTHONPATH=/home/faps/hand-gesture_ws/build/jetbot_navigation/prefix_override:/home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/jetbot_navigation build --build-base /home/faps/hand-gesture_ws/build/jetbot_navigation/build install --record /home/faps/hand-gesture_ws/build/jetbot_navigation/install.log --install-scripts $base/lib/jetbot_navigation --single-version-externally-managed
+[1.561s] running egg_info
+[1.561s] creating ../../build/jetbot_navigation/jetbot_navigation.egg-info
+[1.562s] writing ../../build/jetbot_navigation/jetbot_navigation.egg-info/PKG-INFO
+[1.562s] writing dependency_links to ../../build/jetbot_navigation/jetbot_navigation.egg-info/dependency_links.txt
+[1.562s] writing entry points to ../../build/jetbot_navigation/jetbot_navigation.egg-info/entry_points.txt
+[1.562s] writing requirements to ../../build/jetbot_navigation/jetbot_navigation.egg-info/requires.txt
+[1.562s] writing top-level names to ../../build/jetbot_navigation/jetbot_navigation.egg-info/top_level.txt
+[1.565s] writing manifest file '../../build/jetbot_navigation/jetbot_navigation.egg-info/SOURCES.txt'
+[1.597s] reading manifest file '../../build/jetbot_navigation/jetbot_navigation.egg-info/SOURCES.txt'
+[1.598s] writing manifest file '../../build/jetbot_navigation/jetbot_navigation.egg-info/SOURCES.txt'
+[1.598s] running build
+[1.598s] running build_py
+[1.598s] creating /home/faps/hand-gesture_ws/build/jetbot_navigation/build
+[1.598s] creating /home/faps/hand-gesture_ws/build/jetbot_navigation/build/lib
+[1.599s] creating /home/faps/hand-gesture_ws/build/jetbot_navigation/build/lib/jetbot_navigation
+[1.599s] copying jetbot_navigation/__init__.py -> /home/faps/hand-gesture_ws/build/jetbot_navigation/build/lib/jetbot_navigation
+[1.599s] running install
+[1.600s] running install_lib
+[1.601s] creating /home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages/jetbot_navigation
+[1.601s] copying /home/faps/hand-gesture_ws/build/jetbot_navigation/build/lib/jetbot_navigation/__init__.py -> /home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages/jetbot_navigation
+[1.602s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages/jetbot_navigation/__init__.py to __init__.cpython-38.pyc
+[1.604s] running install_data
+[1.605s] creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/ament_index
+[1.605s] creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/ament_index/resource_index
+[1.605s] creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/ament_index/resource_index/packages
+[1.605s] copying resource/jetbot_navigation -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/ament_index/resource_index/packages
+[1.606s] copying package.xml -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation
+[1.606s] creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/launch
+[1.606s] copying launch/slam_launch.py -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/launch
+[1.606s] copying launch/navigation_launch.py -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/launch
+[1.606s] creating /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/config
+[1.606s] copying config/slam_params.yaml -> /home/faps/hand-gesture_ws/install/jetbot_navigation/share/jetbot_navigation/config
+[1.607s] running install_egg_info
+[1.608s] Copying ../../build/jetbot_navigation/jetbot_navigation.egg-info to /home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages/jetbot_navigation-0.0.0-py3.8.egg-info
+[1.610s] running install_scripts
+[1.635s] writing list of installed files to '/home/faps/hand-gesture_ws/build/jetbot_navigation/install.log'
+[1.664s] Invoked command in '/home/faps/hand-gesture_ws/src/jetbot_navigation' returned '0': PYTHONPATH=/home/faps/hand-gesture_ws/build/jetbot_navigation/prefix_override:/home/faps/hand-gesture_ws/install/jetbot_navigation/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/jetbot_navigation build --build-base /home/faps/hand-gesture_ws/build/jetbot_navigation/build install --record /home/faps/hand-gesture_ws/build/jetbot_navigation/install.log --install-scripts $base/lib/jetbot_navigation --single-version-externally-managed

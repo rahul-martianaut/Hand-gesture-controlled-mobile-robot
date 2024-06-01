@@ -1,0 +1,52 @@
+[0.377s] Invoking command in '/home/faps/hand-gesture_ws/build/hand_gesture_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --build /home/faps/hand-gesture_ws/build/hand_gesture_control -- -j2 -l2
+[0.776s] Invoked command in '/home/faps/hand-gesture_ws/build/hand_gesture_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --build /home/faps/hand-gesture_ws/build/hand_gesture_control -- -j2 -l2
+[0.825s] Invoking command in '/home/faps/hand-gesture_ws/build/hand_gesture_control': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --install /home/faps/hand-gesture_ws/build/hand_gesture_control
+[0.836s] -- Install configuration: ""
+[0.836s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/hand_gesture_node.py
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/train.py
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__init__.py
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/box_utils.py
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/__init__.cpython-310.pyc
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/cvfpscalc.cpython-310.pyc
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/box_utils.cpython-38.pyc
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/model_keypoint.cpython-310.pyc
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/__init__.cpython-38.pyc
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/model_keypoint.cpython-38.pyc
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/__pycache__/cvfpscalc.cpython-38.pyc
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/cvfpscalc.py
+[0.837s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/utils/model_keypoint.py
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/keypoint.csv
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/keypoint_classifier_label.csv
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/pytorch_keypoint_classifier.pth
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/keypoint_classifier.py
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__/__init__.cpython-310.pyc
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__/keypoint_classifier.cpython-310.pyc
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__/keypoint_classifier.cpython-38.pyc
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/keypoint_classifier/__pycache__/model_keypoint.cpython-310.pyc
+[0.838s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/__init__.py
+[0.839s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/__pycache__
+[0.839s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/__pycache__/__init__.cpython-310.pyc
+[0.839s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/lib/hand_gesture_control/model/__pycache__/__init__.cpython-38.pyc
+[0.839s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/launch
+[0.839s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/launch/launch_gesture_control.py
+[0.839s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/ament_index/resource_index/package_run_dependencies/hand_gesture_control
+[0.839s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/ament_index/resource_index/parent_prefix_path/hand_gesture_control
+[0.839s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/environment/ament_prefix_path.sh
+[0.840s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/environment/ament_prefix_path.dsv
+[0.840s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/environment/path.sh
+[0.840s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/environment/path.dsv
+[0.841s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/local_setup.bash
+[0.842s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/local_setup.sh
+[0.842s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/local_setup.zsh
+[0.843s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/local_setup.dsv
+[0.843s] -- Installing: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/package.dsv
+[0.844s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/ament_index/resource_index/packages/hand_gesture_control
+[0.844s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/cmake/hand_gesture_controlConfig.cmake
+[0.844s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/cmake/hand_gesture_controlConfig-version.cmake
+[0.844s] -- Up-to-date: /home/faps/hand-gesture_ws/install/hand_gesture_control/share/hand_gesture_control/package.xml
+[0.845s] Invoked command in '/home/faps/hand-gesture_ws/build/hand_gesture_control' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/faps/hand-gesture_ws/install/jetbot_ros:/home/faps/hand-gesture_ws/install/jetbot_navigation:/opt/ros/foxy /usr/bin/cmake --install /home/faps/hand-gesture_ws/build/hand_gesture_control

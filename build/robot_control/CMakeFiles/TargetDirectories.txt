@@ -1,0 +1,9 @@
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/install/strip.dir
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/install/local.dir
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/install.dir
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/list_install_components.dir
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/rebuild_cache.dir
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/edit_cache.dir
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/test.dir
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/robot_control_uninstall.dir
+/home/faps/hand-gesture_ws/build/robot_control/CMakeFiles/uninstall.dir

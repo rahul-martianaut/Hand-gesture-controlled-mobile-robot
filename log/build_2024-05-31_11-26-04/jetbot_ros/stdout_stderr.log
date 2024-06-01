@@ -1,0 +1,160 @@
+running egg_info
+creating ../../build/jetbot_ros/jetbot_ros.egg-info
+writing ../../build/jetbot_ros/jetbot_ros.egg-info/PKG-INFO
+writing dependency_links to ../../build/jetbot_ros/jetbot_ros.egg-info/dependency_links.txt
+writing entry points to ../../build/jetbot_ros/jetbot_ros.egg-info/entry_points.txt
+writing requirements to ../../build/jetbot_ros/jetbot_ros.egg-info/requires.txt
+writing top-level names to ../../build/jetbot_ros/jetbot_ros.egg-info/top_level.txt
+writing manifest file '../../build/jetbot_ros/jetbot_ros.egg-info/SOURCES.txt'
+reading manifest file '../../build/jetbot_ros/jetbot_ros.egg-info/SOURCES.txt'
+writing manifest file '../../build/jetbot_ros/jetbot_ros.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/faps/hand-gesture_ws/build/jetbot_ros/build
+creating /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib
+creating /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/gazebo_spawn.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/data_collection.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/motors_nvidia.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/__init__.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/oled.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/oled_ssd1306.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/motors.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/motors_waveshare.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/teleop_keyboard.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/nav_model.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+copying jetbot_ros/motors_sparkfun.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+creating /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+copying jetbot_ros/dnn/train.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+copying jetbot_ros/dnn/__init__.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+copying jetbot_ros/dnn/xy_dataset.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+copying jetbot_ros/dnn/navigation_model.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+copying jetbot_ros/dnn/reshape_model.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+running install
+running install_lib
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/gazebo_spawn.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/data_collection.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/motors_nvidia.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/__init__.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/oled.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/oled_ssd1306.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/motors.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/motors_waveshare.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/teleop_keyboard.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/train.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/__init__.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/xy_dataset.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/navigation_model.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/reshape_model.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/nav_model.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/motors_sparkfun.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/gazebo_spawn.py to gazebo_spawn.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/data_collection.py to data_collection.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/motors_nvidia.py to motors_nvidia.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/oled.py to oled.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/oled_ssd1306.py to oled_ssd1306.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/motors.py to motors.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/motors_waveshare.py to motors_waveshare.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/teleop_keyboard.py to teleop_keyboard.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/train.py to train.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/xy_dataset.py to xy_dataset.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/navigation_model.py to navigation_model.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/reshape_model.py to reshape_model.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/nav_model.py to nav_model.cpython-38.pyc
+byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/motors_sparkfun.py to motors_sparkfun.cpython-38.pyc
+running install_data
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/ament_index
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/ament_index/resource_index
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/ament_index/resource_index/packages
+copying resource/jetbot_ros -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/ament_index/resource_index/packages
+copying package.xml -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+copying launch/gazebo_world.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+copying launch/gazebo_nav.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+copying launch/data_collection.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+copying launch/teleop_keyboard.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+copying launch/nav_model.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+copying launch/jetbot_sparkfun.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+copying launch/jetbot_nvidia.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+copying launch/gesture_master.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log
+copying launch/log/COLCON_IGNORE -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log/build_2024-01-23_06-26-22
+copying launch/log/build_2024-01-23_06-26-22/events.log -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log/build_2024-01-23_06-26-22
+copying launch/log/build_2024-01-23_06-26-22/logger_all.log -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log/build_2024-01-23_06-26-22
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/build
+copying launch/build/COLCON_IGNORE -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/build
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/COLCON_IGNORE -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/setup.ps1 -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/local_setup.bash -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/local_setup.zsh -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/setup.sh -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/local_setup.sh -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/setup.zsh -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/_local_setup_util_sh.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/_local_setup_util_ps1.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/setup.bash -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+copying launch/install/local_setup.ps1 -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+copying gazebo/worlds/dirt_path.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+copying gazebo/worlds/maze.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+copying gazebo/worlds/maze_simple_diff.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+copying gazebo/worlds/dirt_path_curves.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+copying gazebo/worlds/dirt_path_curves_simple_diff.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+copying gazebo/worlds/maze_obstacles_simple_diff.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+copying gazebo/worlds/maze_obstacles.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+copying gazebo/worlds/dirt_path_simple_diff.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff_ros
+copying gazebo/models/simple_diff_ros/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff_ros
+copying gazebo/models/simple_diff_ros/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff_ros
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+copying gazebo/models/dirt_path_curves/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+copying gazebo/models/dirt_path_curves/ground_stone_ground_0002_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+copying gazebo/models/dirt_path_curves/grass_grass_0105_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+copying gazebo/models/dirt_path_curves/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+copying gazebo/models/dirt_path_curves/dirt_path_curves.dae -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+copying gazebo/models/ground_plane_grass/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+copying gazebo/models/ground_plane_grass/grass_grass_0105_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+copying gazebo/models/ground_plane_grass/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+copying gazebo/models/ground_plane_grass/ground_plane_grass.blend -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+copying gazebo/models/ground_plane_grass/ground_plane_grass.dae -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff
+copying gazebo/models/simple_diff/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff
+copying gazebo/models/simple_diff/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+copying gazebo/models/dirt_path/dirt_path.dae -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+copying gazebo/models/dirt_path/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+copying gazebo/models/dirt_path/ground_stone_ground_0002_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+copying gazebo/models/dirt_path/grass_grass_0105_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+copying gazebo/models/dirt_path/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot
+copying gazebo/models/jetbot/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot
+copying gazebo/models/jetbot/model.original.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot
+copying gazebo/models/jetbot/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+copying gazebo/models/jetbot/meshes/JetBot-v3-Wheel.stl -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+copying gazebo/models/jetbot/meshes/JetBot-v3-Chassis.stl -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+copying gazebo/models/jetbot/meshes/JetBot-v3-Chassis.dae -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+copying gazebo/models/jetbot/meshes/JetBot-v3-Chassis_simplified.stl -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/maze
+copying gazebo/models/maze/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/maze
+copying gazebo/models/maze/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/maze
+running install_egg_info
+Copying ../../build/jetbot_ros/jetbot_ros.egg-info to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros-0.0.0-py3.8.egg-info
+running install_scripts
+Installing data_collection script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+Installing gazebo_spawn script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+Installing motors_nvidia script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+Installing motors_sparkfun script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+Installing motors_waveshare script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+Installing nav_model script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+Installing oled_ssd1306 script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+Installing teleop_keyboard script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+writing list of installed files to '/home/faps/hand-gesture_ws/build/jetbot_ros/install.log'

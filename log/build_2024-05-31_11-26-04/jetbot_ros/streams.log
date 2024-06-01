@@ -1,0 +1,162 @@
+[1.300s] Invoking command in '/home/faps/hand-gesture_ws/src/jetbot_ros': PYTHONPATH=/home/faps/hand-gesture_ws/build/jetbot_ros/prefix_override:/home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/jetbot_ros build --build-base /home/faps/hand-gesture_ws/build/jetbot_ros/build install --record /home/faps/hand-gesture_ws/build/jetbot_ros/install.log --install-scripts $base/lib/jetbot_ros --single-version-externally-managed
+[1.581s] running egg_info
+[1.582s] creating ../../build/jetbot_ros/jetbot_ros.egg-info
+[1.582s] writing ../../build/jetbot_ros/jetbot_ros.egg-info/PKG-INFO
+[1.583s] writing dependency_links to ../../build/jetbot_ros/jetbot_ros.egg-info/dependency_links.txt
+[1.583s] writing entry points to ../../build/jetbot_ros/jetbot_ros.egg-info/entry_points.txt
+[1.583s] writing requirements to ../../build/jetbot_ros/jetbot_ros.egg-info/requires.txt
+[1.584s] writing top-level names to ../../build/jetbot_ros/jetbot_ros.egg-info/top_level.txt
+[1.585s] writing manifest file '../../build/jetbot_ros/jetbot_ros.egg-info/SOURCES.txt'
+[1.629s] reading manifest file '../../build/jetbot_ros/jetbot_ros.egg-info/SOURCES.txt'
+[1.631s] writing manifest file '../../build/jetbot_ros/jetbot_ros.egg-info/SOURCES.txt'
+[1.631s] running build
+[1.632s] running build_py
+[1.632s] creating /home/faps/hand-gesture_ws/build/jetbot_ros/build
+[1.633s] creating /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib
+[1.633s] creating /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.633s] copying jetbot_ros/gazebo_spawn.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.634s] copying jetbot_ros/data_collection.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.634s] copying jetbot_ros/motors_nvidia.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.635s] copying jetbot_ros/__init__.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.635s] copying jetbot_ros/oled.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.635s] copying jetbot_ros/oled_ssd1306.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.636s] copying jetbot_ros/motors.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.636s] copying jetbot_ros/motors_waveshare.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.636s] copying jetbot_ros/teleop_keyboard.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.637s] copying jetbot_ros/nav_model.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.637s] copying jetbot_ros/motors_sparkfun.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros
+[1.638s] creating /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+[1.638s] copying jetbot_ros/dnn/train.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+[1.638s] copying jetbot_ros/dnn/__init__.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+[1.639s] copying jetbot_ros/dnn/xy_dataset.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+[1.639s] copying jetbot_ros/dnn/navigation_model.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+[1.640s] copying jetbot_ros/dnn/reshape_model.py -> /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn
+[1.641s] running install
+[1.642s] running install_lib
+[1.643s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.644s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/gazebo_spawn.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.644s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/data_collection.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.645s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/motors_nvidia.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.645s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/__init__.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.645s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/oled.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.645s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/oled_ssd1306.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.646s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/motors.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.646s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/motors_waveshare.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.647s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/teleop_keyboard.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.647s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+[1.647s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/train.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+[1.648s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/__init__.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+[1.648s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/xy_dataset.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+[1.648s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/navigation_model.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+[1.648s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/dnn/reshape_model.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn
+[1.649s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/nav_model.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.649s] copying /home/faps/hand-gesture_ws/build/jetbot_ros/build/lib/jetbot_ros/motors_sparkfun.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros
+[1.650s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/gazebo_spawn.py to gazebo_spawn.cpython-38.pyc
+[1.652s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/data_collection.py to data_collection.cpython-38.pyc
+[1.653s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/motors_nvidia.py to motors_nvidia.cpython-38.pyc
+[1.653s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/__init__.py to __init__.cpython-38.pyc
+[1.654s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/oled.py to oled.cpython-38.pyc
+[1.654s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/oled_ssd1306.py to oled_ssd1306.cpython-38.pyc
+[1.655s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/motors.py to motors.cpython-38.pyc
+[1.656s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/motors_waveshare.py to motors_waveshare.cpython-38.pyc
+[1.657s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/teleop_keyboard.py to teleop_keyboard.cpython-38.pyc
+[1.658s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/train.py to train.cpython-38.pyc
+[1.658s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/__init__.py to __init__.cpython-38.pyc
+[1.659s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/xy_dataset.py to xy_dataset.cpython-38.pyc
+[1.659s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/navigation_model.py to navigation_model.cpython-38.pyc
+[1.662s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/dnn/reshape_model.py to reshape_model.cpython-38.pyc
+[1.663s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/nav_model.py to nav_model.cpython-38.pyc
+[1.664s] byte-compiling /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros/motors_sparkfun.py to motors_sparkfun.cpython-38.pyc
+[1.665s] running install_data
+[1.666s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/ament_index
+[1.666s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/ament_index/resource_index
+[1.667s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/ament_index/resource_index/packages
+[1.667s] copying resource/jetbot_ros -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/ament_index/resource_index/packages
+[1.667s] copying package.xml -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros
+[1.667s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.668s] copying launch/gazebo_world.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.668s] copying launch/gazebo_nav.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.668s] copying launch/data_collection.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.669s] copying launch/teleop_keyboard.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.669s] copying launch/nav_model.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.669s] copying launch/jetbot_sparkfun.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.670s] copying launch/jetbot_nvidia.launch.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.671s] copying launch/gesture_master.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch
+[1.671s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log
+[1.671s] copying launch/log/COLCON_IGNORE -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log
+[1.671s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log/build_2024-01-23_06-26-22
+[1.671s] copying launch/log/build_2024-01-23_06-26-22/events.log -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log/build_2024-01-23_06-26-22
+[1.672s] copying launch/log/build_2024-01-23_06-26-22/logger_all.log -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/log/build_2024-01-23_06-26-22
+[1.673s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/build
+[1.673s] copying launch/build/COLCON_IGNORE -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/build
+[1.673s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.673s] copying launch/install/COLCON_IGNORE -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.674s] copying launch/install/setup.ps1 -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.674s] copying launch/install/local_setup.bash -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.675s] copying launch/install/local_setup.zsh -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.675s] copying launch/install/setup.sh -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.676s] copying launch/install/local_setup.sh -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.677s] copying launch/install/setup.zsh -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.677s] copying launch/install/_local_setup_util_sh.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.678s] copying launch/install/_local_setup_util_ps1.py -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.678s] copying launch/install/setup.bash -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.679s] copying launch/install/local_setup.ps1 -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/launch/install
+[1.679s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.680s] copying gazebo/worlds/dirt_path.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.680s] copying gazebo/worlds/maze.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.680s] copying gazebo/worlds/maze_simple_diff.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.681s] copying gazebo/worlds/dirt_path_curves.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.681s] copying gazebo/worlds/dirt_path_curves_simple_diff.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.681s] copying gazebo/worlds/maze_obstacles_simple_diff.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.682s] copying gazebo/worlds/maze_obstacles.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.682s] copying gazebo/worlds/dirt_path_simple_diff.world -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/worlds
+[1.682s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models
+[1.682s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff_ros
+[1.683s] copying gazebo/models/simple_diff_ros/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff_ros
+[1.683s] copying gazebo/models/simple_diff_ros/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff_ros
+[1.684s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+[1.684s] copying gazebo/models/dirt_path_curves/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+[1.684s] copying gazebo/models/dirt_path_curves/ground_stone_ground_0002_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+[1.685s] copying gazebo/models/dirt_path_curves/grass_grass_0105_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+[1.687s] copying gazebo/models/dirt_path_curves/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+[1.688s] copying gazebo/models/dirt_path_curves/dirt_path_curves.dae -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path_curves
+[1.688s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+[1.689s] copying gazebo/models/ground_plane_grass/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+[1.689s] copying gazebo/models/ground_plane_grass/grass_grass_0105_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+[1.692s] copying gazebo/models/ground_plane_grass/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+[1.692s] copying gazebo/models/ground_plane_grass/ground_plane_grass.blend -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+[1.693s] copying gazebo/models/ground_plane_grass/ground_plane_grass.dae -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/ground_plane_grass
+[1.694s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff
+[1.694s] copying gazebo/models/simple_diff/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff
+[1.694s] copying gazebo/models/simple_diff/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/simple_diff
+[1.695s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+[1.695s] copying gazebo/models/dirt_path/dirt_path.dae -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+[1.695s] copying gazebo/models/dirt_path/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+[1.696s] copying gazebo/models/dirt_path/ground_stone_ground_0002_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+[1.697s] copying gazebo/models/dirt_path/grass_grass_0105_02_tiled_1024.jpg -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+[1.699s] copying gazebo/models/dirt_path/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/dirt_path
+[1.700s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot
+[1.700s] copying gazebo/models/jetbot/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot
+[1.700s] copying gazebo/models/jetbot/model.original.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot
+[1.701s] copying gazebo/models/jetbot/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot
+[1.701s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+[1.701s] copying gazebo/models/jetbot/meshes/JetBot-v3-Wheel.stl -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+[1.702s] copying gazebo/models/jetbot/meshes/JetBot-v3-Chassis.stl -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+[1.715s] copying gazebo/models/jetbot/meshes/JetBot-v3-Chassis.dae -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+[1.730s] copying gazebo/models/jetbot/meshes/JetBot-v3-Chassis_simplified.stl -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/jetbot/meshes
+[1.732s] creating /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/maze
+[1.732s] copying gazebo/models/maze/model.config -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/maze
+[1.732s] copying gazebo/models/maze/model.sdf -> /home/faps/hand-gesture_ws/install/jetbot_ros/share/jetbot_ros/models/maze
+[1.733s] running install_egg_info
+[1.735s] Copying ../../build/jetbot_ros/jetbot_ros.egg-info to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages/jetbot_ros-0.0.0-py3.8.egg-info
+[1.736s] running install_scripts
+[1.757s] Installing data_collection script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[1.757s] Installing gazebo_spawn script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[1.757s] Installing motors_nvidia script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[1.757s] Installing motors_sparkfun script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[1.758s] Installing motors_waveshare script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[1.758s] Installing nav_model script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[1.758s] Installing oled_ssd1306 script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[1.759s] Installing teleop_keyboard script to /home/faps/hand-gesture_ws/install/jetbot_ros/lib/jetbot_ros
+[1.759s] writing list of installed files to '/home/faps/hand-gesture_ws/build/jetbot_ros/install.log'
+[1.787s] Invoked command in '/home/faps/hand-gesture_ws/src/jetbot_ros' returned '0': PYTHONPATH=/home/faps/hand-gesture_ws/build/jetbot_ros/prefix_override:/home/faps/hand-gesture_ws/install/jetbot_ros/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/jetbot_ros build --build-base /home/faps/hand-gesture_ws/build/jetbot_ros/build install --record /home/faps/hand-gesture_ws/build/jetbot_ros/install.log --install-scripts $base/lib/jetbot_ros --single-version-externally-managed

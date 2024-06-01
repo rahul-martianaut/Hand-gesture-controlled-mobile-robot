@@ -1,0 +1,70 @@
+Panels:
+  - Class: rviz_common/Displays
+    Name: Displays
+  - Class: rviz_common/Views
+    Name: Views
+
+Visualization Manager:
+  Class: ""
+  Displays:
+    - Class: rviz_default_plugins/Grid
+      Enabled: true
+      Name: Grid
+    - Class: rviz_default_plugins/RobotModel
+      Enabled: true
+      Name: RobotModel
+      Robot Description: robot_description
+    - Class: rviz_default_plugins/LaserScan
+      Enabled: true
+      Name: LaserScan
+      Topic: /scan
+    - Class: rviz_default_plugins/TF
+      Enabled: true
+      Name: TF
+      Show Axes: true
+      Show Names: true
+      Show Arrows: true
+      Arrow Length: 1.0
+    - Class: rviz_default_plugins/Path
+      Enabled: true
+      Name: RobotPath
+      Topic: /robot_path
+    - Class: rviz_default_plugins/RobotCommand
+      Enabled: true
+      Name: RobotCommand
+      Topic: /cmd_vel  # Add this line for cmd_vel visualization
+  Enabled: true
+  Fixed Frame: odom
+
+Views:
+  Current:
+    Class: rviz_default_plugins/TopDownOrtho
+    Name: Current View
+    Near Clip Distance: 0.01
+    Far Clip Distance: 100
+    Scale: 10
+    Grid: <None>
+    Focus Point:
+      X: 0
+      Y: 0
+      Z: 0
+    Eye:
+      X: 0
+      Y: 0
+      Z: 10
+  Saved:
+    - Class: rviz_default_plugins/TopDownOrtho
+      Name: TopDownOrtho
+      Near Clip Distance: 0.01
+      Far Clip Distance: 100
+      Scale: 10
+      Grid: <None>
+      Focus Point:
+        X: 0
+        Y: 0
+        Z: 0
+      Eye:
+        X: 0
+        Y: 0
+        Z: 10
+
