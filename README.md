@@ -2,7 +2,7 @@
 
 This project involves the control of a mobile robot using hand gestures. The hand gestures are recognized using the MediaPipe and OpenCV libraries implemented in PyTorch. For the navigation of the robot, ROS2 is used. Visualization is done using Rviz2 and Gazebo. The SLAM (Simultaneous Localization and Mapping) is handled by the SLAM Toolbox. The mobile robot used in this project is the NVIDIA Jetbot.
 
-![vid](https://github.com/rahul-martianaut/Hand-gesture-controlled-mobile-robot/assets/117083668/a5a958d1-4bbd-4e74-9728-2e1ea8e0f284)
+![vid (1)](https://github.com/rahul-martianaut/Hand-gesture-controlled-mobile-robot/assets/117083668/a5d8ff5d-153d-4262-b03d-705f886c14be)
 
 ## Requirements
 - Ubuntu 20.04
