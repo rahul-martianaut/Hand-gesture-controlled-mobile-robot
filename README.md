@@ -17,7 +17,6 @@ This project involves the control of a mobile robot using hand gestures. The han
 
 1. Clone this repository:
     ```bash
-    cd ~/hand-gesture_ws/
     git clone https://github.com/rahul-martianaut/Hand-gesture-controlled-mobile-robot.git
     ```
 
